@@ -57,7 +57,7 @@ This university book system, allows
 
 ---
 
-### [Project 3: Your Project Title Here](https://github.com/yourusername/project3-repo)
+### [Project 3: Dynamic Web Application](https://github.com/Parker035/Dynamic-Web-Application)
 
 #### Overview
 
