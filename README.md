@@ -4,6 +4,8 @@
 
 Welcome to my Signature Work Portfolio. This portfolio showcases some of the significant projects I have worked on, highlighting my skills and expertise in various areas of computer science. Each project section provides an overview of the project, some features, the technologies used. Feel free to explore the projects and reach out if you have any questions or comments.
 
+[Personal Website: Extra Information about me and Resume](https://parker035.github.io/)
+
 ## Projects
 
 ### [Project One: University Books System Database Design](https://github.com/Parker035/Book-System)
