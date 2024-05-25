@@ -57,7 +57,7 @@ This university book system, allows
 
 ---
 
-### [Project 3: Dynamic Web Application](https://github.com/Parker035/Dynamic-Web-Application)
+### [Project 3: Dynamic Web Application](https://github.com/indawgnito/webdev-rest)
 
 #### Overview
 
